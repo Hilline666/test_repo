@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\nekko\Desktop\C++\pivo\pivo_project\main.cpp(49,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  pivo_project.vcxproj -> C:\Users\nekko\Desktop\C++\pivo\Debug\pivo_project.exe
